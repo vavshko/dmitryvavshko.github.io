@@ -72,13 +72,13 @@ tr td:first-child {
 }
 
 
-td.diploma {
-    padding-bottom: 20px !important;
+td.diploma-institute{
     padding-top: 14px !important;
+    padding-bottom: 20px !important;
 }
 
-td.diploma :last-child {
-    padding-bottom: 0 !important;
+td.diploma-technical{
+    padding-top: 14px !important;
 }
 
 tr.withlist td {
