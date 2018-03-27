@@ -137,17 +137,18 @@ section.skills ul li{
     min-height: 0px !important;
 }
 
-a.top-a-links:nth-child(3){
-    font-size: 68%;
-}
-
 .top-line img.countries{
     margin-left: 6px !important;
     float: left;
 }
 
 section.data{
-    font-size: 76%;
+    font-size: 68%;
+}
+
+.top-text{
+    font-size: 68%;
+    cursor: default;
 }
 
 /* a {
