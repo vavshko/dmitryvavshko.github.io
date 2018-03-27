@@ -35,7 +35,7 @@ td {
 }
 
 section.info {
-    padding-top:20px;
+    padding-top:10px;
 }
 
 td.text-right {
@@ -128,7 +128,19 @@ section.skills ul li{
     line-height: 1.5em;
 }
 
+section.data{
+    /* display:none; */
+    font-size: 80%;
+}
+
 /* img.social-icons {
     position: relative;
     top: 2px;
 } */
+
+
+.website-text{
+    text-align: right;
+    font-size: 70%;
+    padding-left: 25px !important;
+}
