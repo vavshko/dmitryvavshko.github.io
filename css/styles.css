@@ -73,12 +73,14 @@ tr td:first-child {
 
 
 td.diploma-institute{
-    padding-top: 14px !important;
+    padding-top: 8px !important;
     padding-bottom: 20px !important;
+    line-height: 30px;
 }
 
 td.diploma-technical{
-    padding-top: 14px !important;
+    line-height: 30px;
+    padding-top: 8px !important;
 }
 
 tr.withlist td {
