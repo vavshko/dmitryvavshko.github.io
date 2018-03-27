@@ -5,6 +5,9 @@ html {
     line-height: 1.3em;
 }
 
+a {
+	text-decoration: none;
+}
 
 .table th, .table td {
     border-top: none !important;
