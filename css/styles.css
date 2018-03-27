@@ -149,6 +149,7 @@ section.data{
 .top-text{
     font-size: 68%;
     cursor: default;
+    opacity: .18;
 }
 
 /* a {
