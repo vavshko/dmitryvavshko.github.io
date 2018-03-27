@@ -128,6 +128,12 @@ section.skills ul li{
     line-height: 1.5em;
 }
 
+.website-text{
+    text-align: right;
+    font-size: 70%;
+    padding-left: 25px !important;
+}
+
 section.data{
     /* display:none; */
     font-size: 80%;
@@ -137,10 +143,3 @@ section.data{
     position: relative;
     top: 2px;
 } */
-
-
-.website-text{
-    text-align: right;
-    font-size: 70%;
-    padding-left: 25px !important;
-}
