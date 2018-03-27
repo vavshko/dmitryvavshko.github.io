@@ -124,12 +124,11 @@ ul.social{
     line-height: 1.5rem;
 }
 
+section.skills ul li{
+    line-height: 1.5em;
+}
+
 /* img.social-icons {
     position: relative;
     top: 2px;
 } */
-
-section.skills ul li{
-	 line-height: 1.5em;
-}
-
