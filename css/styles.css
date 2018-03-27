@@ -147,11 +147,10 @@ a.top-a-links:nth-child(3){
 }
 
 section.data{
-    /* display:none; */
     font-size: 76%;
 }
 
-a {
+/* a {
     color: #26303c;
     text-decoration: none !important;
-}
+} */
