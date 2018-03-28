@@ -60,17 +60,14 @@ td.brief {
     padding-bottom: 30px !important;
 }
 
-
 img.countries {
     height: 9px;
     position: relative;
 }
 
-
 tr td:first-child {
     width: 30%;
 }
-
 
 td.diploma-institute{
     padding-top: 8px !important;
@@ -87,7 +84,6 @@ tr.withlist td {
     margin: 0;
     padding: 0;
 }
-
 
 span.profession {
     padding-left: 0.75rem;
@@ -153,8 +149,3 @@ section.data{
     opacity: .8;
     padding-right: 16px;
 }
-
-/* a {
-    color: #26303c;
-    text-decoration: none !important;
-} */
