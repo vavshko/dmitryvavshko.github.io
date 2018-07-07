@@ -211,7 +211,6 @@ img.print-color-no:hover {
 
 p {
 	margin-top: 0;
-	padding-left: .75rem!important;
 }
 
 p.goal {
@@ -288,7 +287,8 @@ td.text-right {
 	font-size: 14px;
 }
 
-td.text-right.portfoliolinks {
+td.text-right.public-links {
+    color: #000;
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -392,4 +392,8 @@ ul.social {
 
 td.text-right.pc{
 	padding-top: 2px;
+}
+
+section.public{
+    line-height: 10px;
 }
