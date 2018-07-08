@@ -245,7 +245,7 @@ span.profession {
 	display: block;
 	padding-bottom: 14px;
 	padding-left: .75rem;
-	padding-top: 14px;
+	padding-top: 8px;
 }
 
 td {
@@ -389,10 +389,12 @@ ul.social {
 	font-size: 11px !important;
 }
 
-td.text-right.pc{
-	padding-top: 2px;
+section.public{
+    line-height: 4px;
 }
 
-section.public{
-    line-height: 10px;
+td.text-right.main,.techno,.software{
+    font-size: 16px !important;
+    font-weight: 700;
+	color: #000;
 }
