@@ -167,4 +167,8 @@
 	section.education,.experience img.countries{
 		display: none !important;
 	}
+
+	section.info ul li img.countries{
+		display: none !important;
+	}
 }
