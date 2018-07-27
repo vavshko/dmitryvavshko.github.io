@@ -155,4 +155,16 @@
 	td.text-right.public-links {
 		font-size: 14px !important;
 	}
+
+	td.text-right.techno,.meth,.software{
+		padding-top: 1px !important;
+	}
+
+	span.caption.profiles{
+		padding-bottom: 10px !important;
+	}
+
+	section.education,.experience img.countries{
+		display: none !important;
+	}
 }

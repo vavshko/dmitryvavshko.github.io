@@ -393,7 +393,7 @@ section.public{
     line-height: 4px;
 }
 
-td.text-right.main,.techno,.software{
+td.text-right.main,.techno,.meth,.software{
     font-size: 16px !important;
     font-weight: 700;
 	color: #000;
