@@ -243,9 +243,15 @@ span.exclamation_text img {
 
 span.profession {
 	display: block;
-	padding-bottom: 14px;
+	padding-bottom: 10px;
 	padding-left: .75rem;
-	padding-top: 8px;
+	padding-top: 10px;
+}
+
+span.skill-list{
+	padding-left: .75rem;
+	padding-bottom: 18px;
+	display: inline-block;
 }
 
 td {
@@ -319,8 +325,11 @@ ul {
 	padding-left: 2rem!important;
 }
 
+section.skills ul{
+	padding-top: .75rem;
+}
+
 ul li {
-	padding-top: 2px;
 	line-height: 1.7rem;
 }
 
@@ -397,4 +406,5 @@ td.text-right.main,.techno,.meth,.software{
     font-size: 16px !important;
     font-weight: 700;
 	color: #000;
+	padding-top: .75rem !important;
 }
