@@ -67,6 +67,7 @@
 	}
 	section.education td.text-right {
 		font-size: 12px !important;
+		padding-top: 13px !important;
 	}
 	section.courses td.text-right {
 		font-size: 12px !important;
@@ -164,11 +165,19 @@
 		padding-bottom: 10px !important;
 	}
 
-	section.education,.experience img.countries{
+	section.experience img.countries{
+		display: none !important;
+	}
+
+	section.education img.countries{
 		display: none !important;
 	}
 
 	section.info ul li img.countries{
 		display: none !important;
+	}
+
+	section.education td span.caption {
+		padding-top: 0 !important;
 	}
 }

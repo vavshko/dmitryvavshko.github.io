@@ -266,6 +266,10 @@ td span.caption {
 	margin-bottom: 30px;
 }
 
+section.education td span.caption{
+	padding-top: 50px;
+}
+
 td span.name {
 	color: #000;
 	display: inline-block;
