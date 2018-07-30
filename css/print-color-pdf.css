@@ -39,4 +39,8 @@
 		height: 40px !important;
 		width: 40px !important;
 	}
+
+	section.education td span.caption {
+		padding-top: 25px !important;
+	}
 }

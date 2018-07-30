@@ -42,7 +42,15 @@
 		padding-top: 80px !important;
 	}
 
-	img.rounded, img.countries-surname, img.countries {
+	img.rounded, img.countries-surname {
 		visibility: hidden;
+	}
+
+	img.countries {
+		display: none;
+	}
+
+	section.education td span.caption {
+		padding-top: 25px !important;
 	}
 }
