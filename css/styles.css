@@ -412,3 +412,7 @@ td.text-right.main,.techno,.meth,.software{
 	color: #000;
 	padding-top: .75rem !important;
 }
+
+.de-more-width{
+	padding-right: 0;
+}
