@@ -110,7 +110,7 @@
     display: none !important;
   }
   section.info {
-    padding-top: 31px !important;
+    padding-top: 50px !important;
   }
 
   section.info.info-pl {
@@ -161,8 +161,7 @@
   }
 
   .top-flags {
-    position: absolute;
-    margin-left: -10%;
+    display: inline-block !important;
     /* float: none !important; */
   }
 
