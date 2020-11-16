@@ -16,13 +16,13 @@
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 992px) {
+@media only screen and (min-width: 767px) and (max-width: 992px) {
   .top.col-md-12 {
     max-width: 100% !important;
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 767px) {
   .cd-top {
     right: 20px;
     bottom: 20px;
@@ -30,15 +30,15 @@
 }
 
 @media only screen and (min-width: 1024px) {
-	.cd-top {
-	height: 60px;
-	width: 60px;
-	right: 16px;
-	bottom: 16px;
-	}
+  .cd-top {
+    height: 60px;
+    width: 60px;
+    right: 16px;
+    bottom: 16px;
+  }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   html {
     overflow-x: hidden !important;
   }
@@ -123,6 +123,11 @@
     padding-top: 0 !important;
   }
 
+  /* german version */
+  .germany-padding-top {
+    padding-top: 0 !important;
+  }
+
   /* slovenian version */
 
   .slovenian-padding-top {
@@ -152,7 +157,13 @@
   }
 
   .top-flags img.countries-lang {
-    float: none !important;
+    /* float: none !important; */
+  }
+
+  .top-flags {
+    position: absolute;
+    margin-left: -10%;
+    /* float: none !important; */
   }
 
   .telefon-number {

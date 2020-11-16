@@ -90,9 +90,13 @@ img.countries {
 
 img.countries-lang {
   height: 9px;
-  position: relative;
+  /* position: relative; */
   left: 5px;
   top: 3px;
+}
+
+.top-flags a img:first-child {
+  margin-left: 10px;
 }
 
 img.countries-surname {
