@@ -55,7 +55,7 @@ html {
 
 .top-flags img.countries-lang {
   float: left;
-  padding-bottom: 6px;
+  margin-bottom: 6px;
 }
 
 .top-flags a img:not(.english-margin) {
