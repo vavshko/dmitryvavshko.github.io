@@ -160,12 +160,11 @@
     /* float: none !important; */
   }
 
-  .top-flags d-inline {
-    display: none;
+  .top-flags .d-inline {
+    display: inline-block !important;
   }
 
   .top-flags {
-    display: inline-block !important;
     /* float: none !important; */
   }
 
