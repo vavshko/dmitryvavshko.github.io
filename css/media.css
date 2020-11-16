@@ -160,7 +160,7 @@
     /* float: none !important; */
   }
 
-  .top-flags .d-inline {
+  .top-flags.d-inline {
     display: inline-block !important;
   }
 
