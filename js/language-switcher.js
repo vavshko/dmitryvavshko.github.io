@@ -10,8 +10,8 @@ if (language.indexOf('en') > -1) {
     document.location.href = 'sl.html';
 } else if (language.indexOf('ru') > -1) {
     document.location.href = 'ru.html';
-} else if (language.indexOf('by') > -1) {
-    document.location.href = 'by.html';
+// } else if (language.indexOf('by') > -1) {
+//     document.location.href = 'by.html';
 } else if (language.indexOf('ua') > -1) {
     document.location.href = 'ua.html';
 } else {
